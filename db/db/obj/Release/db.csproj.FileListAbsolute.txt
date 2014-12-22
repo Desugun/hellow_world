@@ -1,0 +1,15 @@
+C:\Users\fujitsu\Desktop\db_project\db\db\bin\Release\db.exe.config
+C:\Users\fujitsu\Desktop\db_project\db\db\bin\Release\db.exe
+C:\Users\fujitsu\Desktop\db_project\db\db\bin\Release\db.pdb
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.Form1.resources
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.zhuce.resources
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.Form3.resources
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.Form5.resources
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.Form6.resources
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.Form7.resources
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.Form8.resources
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.Properties.Resources.resources
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.csproj.GenerateResource.Cache
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.exe
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.pdb
+C:\Users\fujitsu\Desktop\db_project\db\db\obj\Release\db.csprojResolveAssemblyReference.cache
