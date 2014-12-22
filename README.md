@@ -1,4 +1,4 @@
-hellow_world_change
+study_manager
 ============
 
-the first try
+the demon to manage lesson
